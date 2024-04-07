@@ -1,8 +1,9 @@
-Hi 👋, I'm Saurabh Singh Bisht
-Full Stack Developer & Tech Enthusiast
+<h1 align="center">Hi 👋, I'm Saurabh Singh Bisht</h1>
+<h3 align="center">Full Stack Developer & Tech Enthusiast</h3>
+
 
 - 🔭 I’m currently working on projects using NestJS, Next.js, ReactJS, NodeJS, JavaScript and MongoDB.
-- 🌱 I’m always eager to learn and apply new technologies, with a current focus on AI/ML and the latest advancements in tech.
+- 🌱 I’m always eager to learn and apply new technologies, with a current focus on AI/ML and the Latest advancements in tech.
 - 💬 Ask me about anything related to web development or my current tech explorations!
 - 📫 Reach me at singhsourabh425@gmail.com
 
