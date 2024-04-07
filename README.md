@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on projects using NestJS, Next.js, ReactJS, NodeJS, JavaScript and MongoDB.
 - 🌱 I’m always eager to learn and apply new technologies, with a current focus on AI/ML and the Latest advancements in tech.
+- 🧠 I leverage AI tools like ChatGPT, Google AI Studio, Leonardo AI, and Hugging Face to optimize my workflow.
 - 💬 Ask me about anything related to web development or my current tech explorations!
 - 📫 Reach me at singhsourabh425@gmail.com
 
