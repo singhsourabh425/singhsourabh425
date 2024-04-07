@@ -1,22 +1,14 @@
-<h1 align="center">Hi 👋, I'm Saurabh Singh Bisht</h1>
-<h3 align="center">Web Developer | Full Stack Developer</h3>
+Hi 👋, I'm Saurabh Singh Bisht
+Full Stack Developer & Tech Enthusiast
 
-- 🌱 Currently exploring *AI/ML* and latest technologies.
+- 🔭 I’m currently working on projects using NestJS, Next.js, ReactJS, NodeJS, JavaScript and MongoDB.
+- 🌱 I’m always eager to learn and apply new technologies, with a current focus on AI/ML and the latest advancements in tech.
+- 💬 Ask me about anything related to web development or my current tech explorations!
+- 📫 Reach me at singhsourabh425@gmail.com
 
-- 👨‍💻 Tech stack: *NestJS, Next.js, React.js, Node.js, JavaScript, MongoDB*.
+Connect with me:
+<a href="https://www.linkedin.com/in/singhsourabh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/singhsourabh42" height="30" width="40" /></a>
 
-- 💬 Ask me about *web development, JavaScript, MongoDB*.
-
-- 📫 Reach me at *singhsourabh425@gmail.com*.
-
-### About Me
-Passionate about web development and always eager to learn and apply new technologies. Currently focusing on AI/ML and staying updated with the latest trends in tech.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:singhsourabh425@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Mail/mail.png" alt="singhsourabh425@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/singhsourabh42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Saurabh Singh Bisht" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
